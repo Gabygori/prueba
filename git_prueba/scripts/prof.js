@@ -1,0 +1,2 @@
+
+prompt("Hola mundo");
